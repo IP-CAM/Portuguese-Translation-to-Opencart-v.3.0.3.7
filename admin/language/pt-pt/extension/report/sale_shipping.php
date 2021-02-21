@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']     = 'Relatório de fretes';
+$_['heading_title']     = 'Relatório de envios';
 
 // Text
 $_['text_extension']    = 'Extensões';
-$_['text_edit']         = 'Editando Relatório de fretes';
+$_['text_edit']         = 'Editando Relatório de envios';
 $_['text_success']      = 'Relatório modificado com sucesso!';
 $_['text_filter']       = 'Filtros';
 $_['text_year']         = 'Anos';
@@ -16,7 +16,7 @@ $_['text_all_status']   = 'Todas as situações';
 // Column
 $_['column_date_start'] = 'Data inicial';
 $_['column_date_end']   = 'Data final';
-$_['column_title']      = 'Frete';
+$_['column_title']      = 'Envio';
 $_['column_orders']     = 'Pedidos';
 $_['column_total']      = 'Total';
 

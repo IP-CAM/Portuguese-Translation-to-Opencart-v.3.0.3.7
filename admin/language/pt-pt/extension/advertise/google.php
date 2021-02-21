@@ -3,7 +3,7 @@
 $_['heading_campaign']                      = 'Google Smart Shopping Campaigns';
 $_['heading_mapping']                       = 'Mapeamento de Categorias';
 $_['heading_merchant']                      = 'Conta do GoogleMerchant Center';
-$_['heading_shipping_taxes']                = 'Frete & Taxas';
+$_['heading_shipping_taxes']                = 'Envio & Taxas';
 $_['heading_title']                         = 'Google Shopping';
 
 // Steps
@@ -11,7 +11,7 @@ $_['step_campaigns']                        = 'Smart Shopping Campaigns';
 $_['step_connect']                          = 'Conectar';
 $_['step_mapping']                          = 'Mapeamento de Categorias';
 $_['step_merchant_account']                 = 'Conta Merchant Center';
-$_['step_shipping_taxes']                   = 'Frete &amp; Taxas';
+$_['step_shipping_taxes']                   = 'Envio &amp; Taxas';
 
 // Help
 $_['help_adult']                            = 'Use this attribute to indicate that individual products are for adults only because they contain adult content such as nudity, sexually suggestive content, or are intended to enhance sexual activity. Google cares what they show to their users, so if your business model is not adult oriented but you&apos;re selling an individual adult-oriented product, you need to label that product clearly so Google can show appropriate and legally compliant content to people shopping online.';

@@ -21,7 +21,7 @@ $_['column_status']       = 'Situação';
 $_['column_order_id']     = 'Pedido nº';
 $_['column_customer']     = 'Cliente';
 $_['column_amount']       = 'Valor';
-$_['column_date_added']   = 'Cadastro';
+$_['column_date_added']   = 'Registo';
 $_['column_action']       = 'Ação';
 
 // Entry
@@ -30,7 +30,7 @@ $_['entry_code']          = 'Código';
 $_['entry_type']          = 'Tipo de desconto';
 $_['entry_discount']      = 'Desconto';
 $_['entry_logged']        = 'Cliente logado?';
-$_['entry_shipping']      = 'Frete grátis?';
+$_['entry_shipping']      = 'Envio grátis?';
 $_['entry_total']         = 'Valor';
 $_['entry_category']      = 'Departamentos';
 $_['entry_product']       = 'Produtos';
